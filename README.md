@@ -15,7 +15,9 @@ Strategy contains of mailny one indicator with a two extremes. Switching between
 
 The trading or long/short logic has two components:-   
 1.Trend following  
-2. Trend reversal  
+2. Trend reversal    
+
+I have attached the returns report of HIGH sens and LOW sens. both versions using Quantstats library functions.
                                                    
 Currently working on automating this strategy 100%, so the rules of tradin gcan be followed and the back-testing rules can be immitated, hoping to replicate its results.  
 
